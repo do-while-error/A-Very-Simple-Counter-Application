@@ -1,5 +1,5 @@
 *.dart linguist-detectable=true
 *.kotlin linguist-detectable=true
-*.cpp linguist-detectable=true
-*.* linguist-detectable=false
+*.cpp linguist-detectable=false
+
 
