@@ -1,4 +1,4 @@
-# my_application
+# Counter Application via Flutter
 
 A new Flutter project.
 
